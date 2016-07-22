@@ -1,4 +1,4 @@
 # hello-world
 doing 10 minute intro
 
-this is changed
+I'm done with the intro and using SmartGit!
